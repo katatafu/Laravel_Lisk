@@ -1,3 +1,3 @@
 git config --list
-git config --global user.name "Ondrej masny"
+git config --global user.name "Alena Liskova"
 git config --list
